@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Devit Nur Azaqi
-
+# Hi there! 👋 I'm Devit
 I'm a passionate **Flutter Mobile Developer** with a love for creating beautiful and functional mobile applications. My focus is on building scalable, responsive, and highly-performant apps that provide users with smooth and enjoyable experiences. I focus on producing high-quality code that is clean, logically modularized, and easily interpreted by other programmers. I thrive on learning new technologies and constantly improving my coding skills.
 
 ## 🌱 Currently learning
