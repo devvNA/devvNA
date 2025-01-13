@@ -80,5 +80,4 @@ I'm a passionate **Flutter Mobile Developer** with a love for creating beautiful
 
 </div>
 
-⭐️ From [devvna](https://github.com/devvna)
 ---
