@@ -56,6 +56,7 @@ I'm a passionate **Flutter Mobile Developer** with a love for creating beautiful
   - RESTful APIs
   - Express.js,
   - Firebase🔥
+  - Supabase
   - Laravel
 - **Tools & DevOps:**
   - CI/CD (GitHub, Gitlab)
