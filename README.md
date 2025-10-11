@@ -46,6 +46,9 @@ I'm a passionate **Flutter Mobile Developer** with a love for creating beautiful
   <a href="https://supabase.com" target="_blank" rel="noreferrer"> 
     <img src="https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png" alt="supabase" width="40" height="40"/> 
   </a>
+  <a href="www.postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" alt="supabase" width="40" height="40"/> 
+  </a>
 </p>
 
 ## 💻 Tech Stack
@@ -56,8 +59,8 @@ I'm a passionate **Flutter Mobile Developer** with a love for creating beautiful
   - RESTful APIs
   - Express.js,
   - Firebase🔥
-  - Supabase
-  - Laravel
+  - Supabase (PostgreSQL)
+  - Laravel (MySQL)
 - **Tools & DevOps:**
   - CI/CD (GitHub, Gitlab)
   - Postman, Figma
