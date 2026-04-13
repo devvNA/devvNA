@@ -41,36 +41,54 @@ I build scalable mobile applications with clean structure, solid API integration
 
 ## 💻 Tech Stack
 
-- **Mobile & Frontend**
-  - Flutter
-  - React Native
-  - Dart
-  - JavaScript / TypeScript
-  - Material Design
-  - Responsive UI development
-  - Vue
+<table>
+  <tr>
+    <td valign="top" width="25%">
 
-- **Architecture & Engineering**
-  - Clean Architecture
-  - Modularization
-  - State Management with GetX, BLoC, Riverpod, Redux
-  - Performance optimization
-  - Debugging and troubleshooting
+### Mobile & Frontend
+- Flutter
+- React Native
+- Dart
+- JavaScript / TypeScript
+- Material Design
+- Responsive UI Development
+- Vue
 
-- **Backend & Database**
-  - REST API integration
-  - Laravel
-  - Firebase
-  - Supabase
-  - PostgreSQL
-  - MySQL
+  </td>
+    <td valign="top" width="25%">
 
-- **Testing & Workflow**
-  - API testing
-  - Regression testing
-  - Postman / Bruno
-  - Git / GitHub
-  - Figma
+### Architecture & Engineering
+- Clean Architecture
+- Modularization
+- State Management  
+  (GetX, BLoC, Riverpod, Redux)
+- Performance Optimization
+- Debugging & Troubleshooting
+
+  </td>
+    <td valign="top" width="25%">
+
+### Backend & Database
+- REST API Integration
+- Laravel
+- Firebase
+- Supabase
+- PostgreSQL
+- MySQL
+
+  </td>
+    <td valign="top" width="25%">
+
+### Testing & Workflow
+- API Testing
+- Regression Testing
+- Postman / Bruno
+- Git / GitHub
+- Figma
+
+  </td>
+  </tr>
+</table>
 
 ---
 
