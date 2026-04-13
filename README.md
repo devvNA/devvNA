@@ -1,86 +1,114 @@
 # Hi there! 👋 I'm Devit
-I'm a passionate **Flutter Mobile Developer** with a love for creating beautiful and functional mobile applications. My focus is on building scalable, responsive, and highly-performant apps that provide users with smooth and enjoyable experiences. I focus on producing high-quality code that is clean, logically modularized, and easily interpreted by other programmers. I thrive on learning new technologies and constantly improving my coding skills.
 
-## 🌱 Currently learning
-- **State Management** (Bloc, GetX)
-- **Testing & Debugging** in Flutter
-- **Clean Architecture**
-- **Fun fact:** I love discovering new Flutter packages that make development faster and more fun!⭐
-- Ask me about Flutter, Dart, and any tech-related stuff
+Mobile Developer with a strong focus on **Flutter**, **React Native**, and **frontend architecture**.  
+I build scalable mobile applications with clean structure, solid API integration, and a strong quality mindset.
+
+🔍 Interested in mobile engineering, frontend systems, backend integration, and product quality  
+📌 Currently open to **full-time opportunities** in Mobile Development, Frontend Engineering, and QA-focused product teams
+
+---
+
+## 🚀 About Me
+
+- Focused on building maintainable and scalable mobile apps
+- Strong in **clean architecture**, **modularization**, and **state management**
+- Comfortable with **API integration**, **performance optimization**, and **debugging**
+- Bring a strong **QA mindset** into development: API testing, regression testing, and structured bug reporting
+- Backend exposure with **Laravel**, **Supabase**, **Firebase**, **PostgreSQL**, and **MySQL**
+
+---
+
+## 🧠 Core Strengths
+
+- **Mobile Development:** Flutter (Core), React Native (Familiar)
+- **Frontend Architecture:** clean structure, reusable modules, maintainable codebase
+- **State Management:** GetX, BLoC, Riverpod, Redux
+- **Testing & Quality:** API testing, regression testing, debugging, issue analysis
+- **Backend Integration:** REST API, authentication flow, database-driven apps
+- **System Thinking:** database design, API design, and feature flow breakdown
+
+---
 
 ## ⚙️ Languages and Tools
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.gstatic.com/devrel-devsite/prod/va15d3cf2bbb0f0b76bff872a3310df731db3118331ec014ebef7ea080350285b/firebase/images/lockup.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"> 
-    <img src="https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png" alt="supabase" width="40" height="40"/> 
-  </a>
-  <a href="www.postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" alt="supabase" width="40" height="40"/> 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,laravel,firebase,supabase,postgres,mysql,git,postman,figma,vscode" />
   </a>
 </p>
 
+---
+
 ## 💻 Tech Stack
-- **Frontend:**
-  - Flutter, Dart🎯
-  - UI/UX Design (Material Design, Cupertino)
-- **Backend:**
-  - RESTful APIs
-  - Express.js,
-  - Firebase🔥
-  - Supabase (PostgreSQL)
-  - Laravel (MySQL)
-- **Tools & DevOps:**
-  - CI/CD (GitHub, Gitlab)
-  - Postman, Figma
 
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devvna&show_icons=true&theme=radical)
+- **Mobile & Frontend**
+  - Flutter
+  - React Native
+  - Dart
+  - JavaScript / TypeScript
+  - Material Design
+  - Responsive UI development
 
-## 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvna&layout=compact&theme=radical)
+  - Vue
 
-## 🏆 My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=devvna&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+- **Architecture & Engineering**
+  - Clean Architecture
+  - Modularization
+  - State Management with GetX, BLoC, Riverpod, Redux
+  - Performance optimization
+  - Debugging and troubleshooting
 
-## 🔗 Let's Connect
+- **Backend & Database**
+  - REST API integration
+  - Laravel
+  - Firebase
+  - Supabase
+  - PostgreSQL
+  - MySQL
+
+- **Testing & Workflow**
+  - API testing
+  - Regression testing
+  - Postman / Bruno
+  - Git / GitHub
+  - Figma
+
+---
+
+## 📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs
+
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/devitnurazaqi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devit.na)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bit.ly/4hiciPs)
+  <img
+    src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=devvNA&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
+    alt="GitHub Stats"
+    width="45%"
+  />
+  &nbsp;
+  &nbsp;    
+  <img
+    src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=devvNA&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff"
+    alt="Streak Stats"
+    width="45%"
+  />
+  <br />
+  <br />
+
+<img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=devvNA&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
+    alt="Most Used Languages"
+    width="35%"
+  />
 
 </div>
 
 ---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/devitnurazaqi) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devit.na) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://itsdevit.web.id)
+
+</div>
