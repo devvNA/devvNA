@@ -48,7 +48,6 @@ I build scalable mobile applications with clean structure, solid API integration
   - JavaScript / TypeScript
   - Material Design
   - Responsive UI development
-
   - Vue
 
 - **Architecture & Engineering**
