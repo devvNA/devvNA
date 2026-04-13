@@ -81,14 +81,14 @@ I build scalable mobile applications with clean structure, solid API integration
   <img
     src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=devvNA&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
     alt="GitHub Stats"
-    width="45%"
+    width="50%"
   />
   &nbsp;
   &nbsp;    
   <img
     src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=devvNA&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff"
     alt="Streak Stats"
-    width="45%"
+    width="50%"
   />
   <br />
   <br />
@@ -96,7 +96,7 @@ I build scalable mobile applications with clean structure, solid API integration
 <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=devvNA&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
     alt="Most Used Languages"
-    width="35%"
+    width="45%"
   />
 
 </div>
