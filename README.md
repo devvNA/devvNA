@@ -96,7 +96,7 @@ I build scalable mobile applications with clean structure, solid API integration
 <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=devvNA&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
     alt="Most Used Languages"
-    width="42%"
+    width="40%"
   />
 
 </div>
